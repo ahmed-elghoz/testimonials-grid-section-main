@@ -151,7 +151,6 @@ body {
     max-height: none;
     margin: 70px auto;
     max-width: 680px;
-    position: relative;
   }
   .box {
     margin-left: 25px;
@@ -168,23 +167,3 @@ body {
 }
 /* Media End */
 
-/* Footer Start */
-
-.attribution {
-  font-size: 11px;
-  text-align: center;
-  position: absolute;
-  bottom: 0;
-  left: 50%;
-  transform: translateX(-50%);
-  -webkit-transform: translateX(-50%);
-  -moz-transform: translateX(-50%);
-  -ms-transform: translateX(-50%);
-  -o-transform: translateX(-50%);
-}
-
-.attribution a {
-  color: hsl(228, 45%, 44%);
-}
-
-/* Footer End */
