@@ -139,8 +139,9 @@ body {
 
 /* Media Start */
 @media (max-width: 1120px) {
-  .main-container{
+  .main-container {
     max-height: 1965px;
+    height: 100%;
   }
   .container {
     display: flex;
